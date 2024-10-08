@@ -1,5 +1,7 @@
 # EZBOT EZ235
 
+开源进度30%  已完成Z轴图纸上传
+
 EZ235采用VZBOT Z轴
 
 特此感谢VZBOT CNC项目提供的设计思路
