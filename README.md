@@ -2,9 +2,9 @@
 
 开源进度30%  已完成Z轴图纸上传
 
-EZ235采用VZBOT Z轴
+EZ235采用VZBOT Z轴     大鱼TT XY龙门    EZ PRINTHEAD打印头   VORON封箱
 
-特此感谢VZBOT CNC项目提供的设计思路
+特此感谢VZBOT项目 大鱼TT项目 voron项目
 
 Z轴打印件和型材加工已上传
 
