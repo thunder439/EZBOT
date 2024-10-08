@@ -1,4 +1,4 @@
-# dayu-TT-ZZ
+# EZBOT EZ235
 
 大鱼TT双Z魔改版本
 
